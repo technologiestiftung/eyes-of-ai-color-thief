@@ -1,0 +1,100 @@
+{
+	"colors": [
+		{
+			"Numeric": "",
+			"Color name": "black",
+			"Hex rgb": "#000000",
+			"Decimal": "0,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "silver",
+			"Hex rgb": "#C0C0C0",
+			"Decimal": "192,192,192"
+		},
+		{
+			"Numeric": "",
+			"Color name": "gray",
+			"Hex rgb": "#808080",
+			"Decimal": "128,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "white",
+			"Hex rgb": "#FFFFFF",
+			"Decimal": "255,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "maroon",
+			"Hex rgb": "#800000",
+			"Decimal": "128,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "red",
+			"Hex rgb": "#FF0000",
+			"Decimal": "255,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "purple",
+			"Hex rgb": "#800080",
+			"Decimal": "128,0,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "fuchsia",
+			"Hex rgb": "#FF00FF",
+			"Decimal": "255,0,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "green",
+			"Hex rgb": "#008000",
+			"Decimal": "0,128,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lime",
+			"Hex rgb": "#00FF00",
+			"Decimal": "0,255,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "olive",
+			"Hex rgb": "#808000",
+			"Decimal": "128,128,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "yellow",
+			"Hex rgb": "#FFFF00",
+			"Decimal": "255,255,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "navy",
+			"Hex rgb": "#000080",
+			"Decimal": "0,0,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "blue",
+			"Hex rgb": "#0000FF",
+			"Decimal": "0,0,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "teal",
+			"Hex rgb": "#008080",
+			"Decimal": "0,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "aqua",
+			"Hex rgb": "#00FFFF",
+			"Decimal": "0,255,255"
+		}
+	]
+}

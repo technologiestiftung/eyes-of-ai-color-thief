@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <canvas id="myCanvas" width="200" height="200"></canvas>
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+
+// Array of colors to use in the image
+const colors = ['#FF0000', '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF'];
+
+// Draw rectangles with different colors on the canvas
+for (let i = 0; i < 6; i++) {
+  ctx.fillStyle = colors[i];
+  ctx.fillRect(i * (canvas.width / 6), 0, (canvas.width / 6), canvas.height);
+}
+
+// Extract data URL from the canvas
+const dataUrl = canvas.toDataURL();
+
+console.log(dataUrl);
+
+</script>
+</body>
+</html>

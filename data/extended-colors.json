@@ -1,0 +1,886 @@
+{
+	"colors": [
+		{
+			"Numeric": "",
+			"Color name": "aliceblue",
+			"Hex rgb": "#f0f8ff",
+			"Decimal": "240,248,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "antiquewhite",
+			"Hex rgb": "#faebd7",
+			"Decimal": "250,235,215"
+		},
+		{
+			"Numeric": "",
+			"Color name": "aqua",
+			"Hex rgb": "#00ffff",
+			"Decimal": "0,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "aquamarine",
+			"Hex rgb": "#7fffd4",
+			"Decimal": "127,255,212"
+		},
+		{
+			"Numeric": "",
+			"Color name": "azure",
+			"Hex rgb": "#f0ffff",
+			"Decimal": "240,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "beige",
+			"Hex rgb": "#f5f5dc",
+			"Decimal": "245,245,220"
+		},
+		{
+			"Numeric": "",
+			"Color name": "bisque",
+			"Hex rgb": "#ffe4c4",
+			"Decimal": "255,228,196"
+		},
+		{
+			"Numeric": "",
+			"Color name": "black",
+			"Hex rgb": "#000000",
+			"Decimal": "0,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "blanchedalmond",
+			"Hex rgb": "#ffebcd",
+			"Decimal": "255,235,205"
+		},
+		{
+			"Numeric": "",
+			"Color name": "blue",
+			"Hex rgb": "#0000ff",
+			"Decimal": "0,0,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "blueviolet",
+			"Hex rgb": "#8a2be2",
+			"Decimal": "138,43,226"
+		},
+		{
+			"Numeric": "",
+			"Color name": "brown",
+			"Hex rgb": "#a52a2a",
+			"Decimal": "165,42,42"
+		},
+		{
+			"Numeric": "",
+			"Color name": "burlywood",
+			"Hex rgb": "#deb887",
+			"Decimal": "222,184,135"
+		},
+		{
+			"Numeric": "",
+			"Color name": "cadetblue",
+			"Hex rgb": "#5f9ea0",
+			"Decimal": "95,158,160"
+		},
+		{
+			"Numeric": "",
+			"Color name": "chartreuse",
+			"Hex rgb": "#7fff00",
+			"Decimal": "127,255,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "chocolate",
+			"Hex rgb": "#d2691e",
+			"Decimal": "210,105,30"
+		},
+		{
+			"Numeric": "",
+			"Color name": "coral",
+			"Hex rgb": "#ff7f50",
+			"Decimal": "255,127,80"
+		},
+		{
+			"Numeric": "",
+			"Color name": "cornflowerblue",
+			"Hex rgb": "#6495ed",
+			"Decimal": "100,149,237"
+		},
+		{
+			"Numeric": "",
+			"Color name": "cornsilk",
+			"Hex rgb": "#fff8dc",
+			"Decimal": "255,248,220"
+		},
+		{
+			"Numeric": "",
+			"Color name": "crimson",
+			"Hex rgb": "#dc143c",
+			"Decimal": "220,20,60"
+		},
+		{
+			"Numeric": "",
+			"Color name": "cyan",
+			"Hex rgb": "#00ffff",
+			"Decimal": "0,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkblue",
+			"Hex rgb": "#00008b",
+			"Decimal": "0,0,139"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkcyan",
+			"Hex rgb": "#008b8b",
+			"Decimal": "0,139,139"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkgoldenrod",
+			"Hex rgb": "#b8860b",
+			"Decimal": "184,134,11"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkgray",
+			"Hex rgb": "#a9a9a9",
+			"Decimal": "169,169,169"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkgreen",
+			"Hex rgb": "#006400",
+			"Decimal": "0,100,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkgrey",
+			"Hex rgb": "#a9a9a9",
+			"Decimal": "169,169,169"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkkhaki",
+			"Hex rgb": "#bdb76b",
+			"Decimal": "189,183,107"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkmagenta",
+			"Hex rgb": "#8b008b",
+			"Decimal": "139,0,139"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkolivegreen",
+			"Hex rgb": "#556b2f",
+			"Decimal": "85,107,47"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkorange",
+			"Hex rgb": "#ff8c00",
+			"Decimal": "255,140,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkorchid",
+			"Hex rgb": "#9932cc",
+			"Decimal": "153,50,204"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkred",
+			"Hex rgb": "#8b0000",
+			"Decimal": "139,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darksalmon",
+			"Hex rgb": "#e9967a",
+			"Decimal": "233,150,122"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkseagreen",
+			"Hex rgb": "#8fbc8f",
+			"Decimal": "143,188,143"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkslateblue",
+			"Hex rgb": "#483d8b",
+			"Decimal": "72,61,139"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkslategray",
+			"Hex rgb": "#2f4f4f",
+			"Decimal": "47,79,79"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkslategrey",
+			"Hex rgb": "#2f4f4f",
+			"Decimal": "47,79,79"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkturquoise",
+			"Hex rgb": "#00ced1",
+			"Decimal": "0,206,209"
+		},
+		{
+			"Numeric": "",
+			"Color name": "darkviolet",
+			"Hex rgb": "#9400d3",
+			"Decimal": "148,0,211"
+		},
+		{
+			"Numeric": "",
+			"Color name": "deeppink",
+			"Hex rgb": "#ff1493",
+			"Decimal": "255,20,147"
+		},
+		{
+			"Numeric": "",
+			"Color name": "deepskyblue",
+			"Hex rgb": "#00bfff",
+			"Decimal": "0,191,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "dimgray",
+			"Hex rgb": "#696969",
+			"Decimal": "105,105,105"
+		},
+		{
+			"Numeric": "",
+			"Color name": "dimgrey",
+			"Hex rgb": "#696969",
+			"Decimal": "105,105,105"
+		},
+		{
+			"Numeric": "",
+			"Color name": "dodgerblue",
+			"Hex rgb": "#1e90ff",
+			"Decimal": "30,144,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "firebrick",
+			"Hex rgb": "#b22222",
+			"Decimal": "178,34,34"
+		},
+		{
+			"Numeric": "",
+			"Color name": "floralwhite",
+			"Hex rgb": "#fffaf0",
+			"Decimal": "255,250,240"
+		},
+		{
+			"Numeric": "",
+			"Color name": "forestgreen",
+			"Hex rgb": "#228b22",
+			"Decimal": "34,139,34"
+		},
+		{
+			"Numeric": "",
+			"Color name": "fuchsia",
+			"Hex rgb": "#ff00ff",
+			"Decimal": "255,0,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "gainsboro",
+			"Hex rgb": "#dcdcdc",
+			"Decimal": "220,220,220"
+		},
+		{
+			"Numeric": "",
+			"Color name": "ghostwhite",
+			"Hex rgb": "#f8f8ff",
+			"Decimal": "248,248,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "gold",
+			"Hex rgb": "#ffd700",
+			"Decimal": "255,215,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "goldenrod",
+			"Hex rgb": "#daa520",
+			"Decimal": "218,165,32"
+		},
+		{
+			"Numeric": "",
+			"Color name": "gray",
+			"Hex rgb": "#808080",
+			"Decimal": "128,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "green",
+			"Hex rgb": "#008000",
+			"Decimal": "0,128,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "greenyellow",
+			"Hex rgb": "#adff2f",
+			"Decimal": "173,255,47"
+		},
+		{
+			"Numeric": "",
+			"Color name": "grey",
+			"Hex rgb": "#808080",
+			"Decimal": "128,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "honeydew",
+			"Hex rgb": "#f0fff0",
+			"Decimal": "240,255,240"
+		},
+		{
+			"Numeric": "",
+			"Color name": "hotpink",
+			"Hex rgb": "#ff69b4",
+			"Decimal": "255,105,180"
+		},
+		{
+			"Numeric": "",
+			"Color name": "indianred",
+			"Hex rgb": "#cd5c5c",
+			"Decimal": "205,92,92"
+		},
+		{
+			"Numeric": "",
+			"Color name": "indigo",
+			"Hex rgb": "#4b0082",
+			"Decimal": "75,0,130"
+		},
+		{
+			"Numeric": "",
+			"Color name": "ivory",
+			"Hex rgb": "#fffff0",
+			"Decimal": "255,255,240"
+		},
+		{
+			"Numeric": "",
+			"Color name": "khaki",
+			"Hex rgb": "#f0e68c",
+			"Decimal": "240,230,140"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lavender",
+			"Hex rgb": "#e6e6fa",
+			"Decimal": "230,230,250"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lavenderblush",
+			"Hex rgb": "#fff0f5",
+			"Decimal": "255,240,245"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lawngreen",
+			"Hex rgb": "#7cfc00",
+			"Decimal": "124,252,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lemonchiffon",
+			"Hex rgb": "#fffacd",
+			"Decimal": "255,250,205"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightblue",
+			"Hex rgb": "#add8e6",
+			"Decimal": "173,216,230"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightcoral",
+			"Hex rgb": "#f08080",
+			"Decimal": "240,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightcyan",
+			"Hex rgb": "#e0ffff",
+			"Decimal": "224,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightgoldenrodyellow",
+			"Hex rgb": "#fafad2",
+			"Decimal": "250,250,210"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightgray",
+			"Hex rgb": "#d3d3d3",
+			"Decimal": "211,211,211"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightgreen",
+			"Hex rgb": "#90ee90",
+			"Decimal": "144,238,144"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightgrey",
+			"Hex rgb": "#d3d3d3",
+			"Decimal": "211,211,211"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightpink",
+			"Hex rgb": "#ffb6c1",
+			"Decimal": "255,182,193"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightsalmon",
+			"Hex rgb": "#ffa07a",
+			"Decimal": "255,160,122"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightseagreen",
+			"Hex rgb": "#20b2aa",
+			"Decimal": "32,178,170"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightskyblue",
+			"Hex rgb": "#87cefa",
+			"Decimal": "135,206,250"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightslategray",
+			"Hex rgb": "#778899",
+			"Decimal": "119,136,153"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightslategrey",
+			"Hex rgb": "#778899",
+			"Decimal": "119,136,153"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightsteelblue",
+			"Hex rgb": "#b0c4de",
+			"Decimal": "176,196,222"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lightyellow",
+			"Hex rgb": "#ffffe0",
+			"Decimal": "255,255,224"
+		},
+		{
+			"Numeric": "",
+			"Color name": "lime",
+			"Hex rgb": "#00ff00",
+			"Decimal": "0,255,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "limegreen",
+			"Hex rgb": "#32cd32",
+			"Decimal": "50,205,50"
+		},
+		{
+			"Numeric": "",
+			"Color name": "linen",
+			"Hex rgb": "#faf0e6",
+			"Decimal": "250,240,230"
+		},
+		{
+			"Numeric": "",
+			"Color name": "magenta",
+			"Hex rgb": "#ff00ff",
+			"Decimal": "255,0,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "maroon",
+			"Hex rgb": "#800000",
+			"Decimal": "128,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumaquamarine",
+			"Hex rgb": "#66cdaa",
+			"Decimal": "102,205,170"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumblue",
+			"Hex rgb": "#0000cd",
+			"Decimal": "0,0,205"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumorchid",
+			"Hex rgb": "#ba55d3",
+			"Decimal": "186,85,211"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumpurple",
+			"Hex rgb": "#9370db",
+			"Decimal": "147,112,219"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumseagreen",
+			"Hex rgb": "#3cb371",
+			"Decimal": "60,179,113"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumslateblue",
+			"Hex rgb": "#7b68ee",
+			"Decimal": "123,104,238"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumspringgreen",
+			"Hex rgb": "#00fa9a",
+			"Decimal": "0,250,154"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumturquoise",
+			"Hex rgb": "#48d1cc",
+			"Decimal": "72,209,204"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mediumvioletred",
+			"Hex rgb": "#c71585",
+			"Decimal": "199,21,133"
+		},
+		{
+			"Numeric": "",
+			"Color name": "midnightblue",
+			"Hex rgb": "#191970",
+			"Decimal": "25,25,112"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mintcream",
+			"Hex rgb": "#f5fffa",
+			"Decimal": "245,255,250"
+		},
+		{
+			"Numeric": "",
+			"Color name": "mistyrose",
+			"Hex rgb": "#ffe4e1",
+			"Decimal": "255,228,225"
+		},
+		{
+			"Numeric": "",
+			"Color name": "moccasin",
+			"Hex rgb": "#ffe4b5",
+			"Decimal": "255,228,181"
+		},
+		{
+			"Numeric": "",
+			"Color name": "navajowhite",
+			"Hex rgb": "#ffdead",
+			"Decimal": "255,222,173"
+		},
+		{
+			"Numeric": "",
+			"Color name": "navy",
+			"Hex rgb": "#000080",
+			"Decimal": "0,0,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "oldlace",
+			"Hex rgb": "#fdf5e6",
+			"Decimal": "253,245,230"
+		},
+		{
+			"Numeric": "",
+			"Color name": "olive",
+			"Hex rgb": "#808000",
+			"Decimal": "128,128,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "olivedrab",
+			"Hex rgb": "#6b8e23",
+			"Decimal": "107,142,35"
+		},
+		{
+			"Numeric": "",
+			"Color name": "orange",
+			"Hex rgb": "#ffa500",
+			"Decimal": "255,165,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "orangered",
+			"Hex rgb": "#ff4500",
+			"Decimal": "255,69,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "orchid",
+			"Hex rgb": "#da70d6",
+			"Decimal": "218,112,214"
+		},
+		{
+			"Numeric": "",
+			"Color name": "palegoldenrod",
+			"Hex rgb": "#eee8aa",
+			"Decimal": "238,232,170"
+		},
+		{
+			"Numeric": "",
+			"Color name": "palegreen",
+			"Hex rgb": "#98fb98",
+			"Decimal": "152,251,152"
+		},
+		{
+			"Numeric": "",
+			"Color name": "paleturquoise",
+			"Hex rgb": "#afeeee",
+			"Decimal": "175,238,238"
+		},
+		{
+			"Numeric": "",
+			"Color name": "palevioletred",
+			"Hex rgb": "#db7093",
+			"Decimal": "219,112,147"
+		},
+		{
+			"Numeric": "",
+			"Color name": "papayawhip",
+			"Hex rgb": "#ffefd5",
+			"Decimal": "255,239,213"
+		},
+		{
+			"Numeric": "",
+			"Color name": "peachpuff",
+			"Hex rgb": "#ffdab9",
+			"Decimal": "255,218,185"
+		},
+		{
+			"Numeric": "",
+			"Color name": "peru",
+			"Hex rgb": "#cd853f",
+			"Decimal": "205,133,63"
+		},
+		{
+			"Numeric": "",
+			"Color name": "pink",
+			"Hex rgb": "#ffc0cb",
+			"Decimal": "255,192,203"
+		},
+		{
+			"Numeric": "",
+			"Color name": "plum",
+			"Hex rgb": "#dda0dd",
+			"Decimal": "221,160,221"
+		},
+		{
+			"Numeric": "",
+			"Color name": "powderblue",
+			"Hex rgb": "#b0e0e6",
+			"Decimal": "176,224,230"
+		},
+		{
+			"Numeric": "",
+			"Color name": "purple",
+			"Hex rgb": "#800080",
+			"Decimal": "128,0,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "red",
+			"Hex rgb": "#ff0000",
+			"Decimal": "255,0,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "rosybrown",
+			"Hex rgb": "#bc8f8f",
+			"Decimal": "188,143,143"
+		},
+		{
+			"Numeric": "",
+			"Color name": "royalblue",
+			"Hex rgb": "#4169e1",
+			"Decimal": "65,105,225"
+		},
+		{
+			"Numeric": "",
+			"Color name": "saddlebrown",
+			"Hex rgb": "#8b4513",
+			"Decimal": "139,69,19"
+		},
+		{
+			"Numeric": "",
+			"Color name": "salmon",
+			"Hex rgb": "#fa8072",
+			"Decimal": "250,128,114"
+		},
+		{
+			"Numeric": "",
+			"Color name": "sandybrown",
+			"Hex rgb": "#f4a460",
+			"Decimal": "244,164,96"
+		},
+		{
+			"Numeric": "",
+			"Color name": "seagreen",
+			"Hex rgb": "#2e8b57",
+			"Decimal": "46,139,87"
+		},
+		{
+			"Numeric": "",
+			"Color name": "seashell",
+			"Hex rgb": "#fff5ee",
+			"Decimal": "255,245,238"
+		},
+		{
+			"Numeric": "",
+			"Color name": "sienna",
+			"Hex rgb": "#a0522d",
+			"Decimal": "160,82,45"
+		},
+		{
+			"Numeric": "",
+			"Color name": "silver",
+			"Hex rgb": "#c0c0c0",
+			"Decimal": "192,192,192"
+		},
+		{
+			"Numeric": "",
+			"Color name": "skyblue",
+			"Hex rgb": "#87ceeb",
+			"Decimal": "135,206,235"
+		},
+		{
+			"Numeric": "",
+			"Color name": "slateblue",
+			"Hex rgb": "#6a5acd",
+			"Decimal": "106,90,205"
+		},
+		{
+			"Numeric": "",
+			"Color name": "slategray",
+			"Hex rgb": "#708090",
+			"Decimal": "112,128,144"
+		},
+		{
+			"Numeric": "",
+			"Color name": "slategrey",
+			"Hex rgb": "#708090",
+			"Decimal": "112,128,144"
+		},
+		{
+			"Numeric": "",
+			"Color name": "snow",
+			"Hex rgb": "#fffafa",
+			"Decimal": "255,250,250"
+		},
+		{
+			"Numeric": "",
+			"Color name": "springgreen",
+			"Hex rgb": "#00ff7f",
+			"Decimal": "0,255,127"
+		},
+		{
+			"Numeric": "",
+			"Color name": "steelblue",
+			"Hex rgb": "#4682b4",
+			"Decimal": "70,130,180"
+		},
+		{
+			"Numeric": "",
+			"Color name": "tan",
+			"Hex rgb": "#d2b48c",
+			"Decimal": "210,180,140"
+		},
+		{
+			"Numeric": "",
+			"Color name": "teal",
+			"Hex rgb": "#008080",
+			"Decimal": "0,128,128"
+		},
+		{
+			"Numeric": "",
+			"Color name": "thistle",
+			"Hex rgb": "#d8bfd8",
+			"Decimal": "216,191,216"
+		},
+		{
+			"Numeric": "",
+			"Color name": "tomato",
+			"Hex rgb": "#ff6347",
+			"Decimal": "255,99,71"
+		},
+		{
+			"Numeric": "",
+			"Color name": "turquoise",
+			"Hex rgb": "#40e0d0",
+			"Decimal": "64,224,208"
+		},
+		{
+			"Numeric": "",
+			"Color name": "violet",
+			"Hex rgb": "#ee82ee",
+			"Decimal": "238,130,238"
+		},
+		{
+			"Numeric": "",
+			"Color name": "wheat",
+			"Hex rgb": "#f5deb3",
+			"Decimal": "245,222,179"
+		},
+		{
+			"Numeric": "",
+			"Color name": "white",
+			"Hex rgb": "#ffffff",
+			"Decimal": "255,255,255"
+		},
+		{
+			"Numeric": "",
+			"Color name": "whitesmoke",
+			"Hex rgb": "#f5f5f5",
+			"Decimal": "245,245,245"
+		},
+		{
+			"Numeric": "",
+			"Color name": "yellow",
+			"Hex rgb": "#ffff00",
+			"Decimal": "255,255,0"
+		},
+		{
+			"Numeric": "",
+			"Color name": "yellowgreen",
+			"Hex rgb": "#9acd32",
+			"Decimal": "154,205,50"
+		}
+	]
+}
