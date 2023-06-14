@@ -15,7 +15,8 @@ RUN npm ci
 
 # Bundle app source
 COPY . .
-
+# Create the images folder
+RUN mkdir -p /usr/src/app/images
 # Expose port
 EXPOSE 3000
 
