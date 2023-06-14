@@ -5,7 +5,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "node --test"
+		"test": "node --test",
+		"dev": "nodemon"
 	},
 	"keywords": [],
 	"author": "ff6347 <hash@ff6347.email>",
