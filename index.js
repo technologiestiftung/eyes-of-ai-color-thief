@@ -3,7 +3,7 @@
 const { createServer } = require("./lib/server");
 const server = createServer();
 
-const { ADDRESS = "localhost", PORT = "3000" } = process.env;
+const { ADDRESS = "localhost", PORT = "8080" } = process.env;
 if (!ADDRESS || !PORT) {
 	throw new Error("ADDRESS and PORT env variables must be set");
 }

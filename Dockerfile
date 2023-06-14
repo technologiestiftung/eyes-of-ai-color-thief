@@ -20,7 +20,7 @@ RUN mkdir -p /usr/src/app/images
 # Expose port
 EXPOSE 3000
 
-ENV ADDRESS=0.0.0.0 PORT=3000
+ENV ADDRESS=0.0.0.0 PORT=8080
 
 # Run app
 CMD [ "node", "index.js" ]
