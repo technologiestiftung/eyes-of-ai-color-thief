@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/technologiestiftung/eyes-of-ai-color-thief/compare/v1.0.0...v1.0.1) (2023-06-14)
+
+
+### Bug Fixes
+
+* Move to 8080 ([17f66a9](https://github.com/technologiestiftung/eyes-of-ai-color-thief/commit/17f66a9471e9b3ac9e2111e9a40b215d65720c3f))
+
 # 1.0.0 (2023-06-14)
 
 
