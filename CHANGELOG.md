@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/technologiestiftung/eyes-of-ai-color-thief/compare/v1.0.1...v1.0.2) (2023-06-15)
+
+
+### Bug Fixes
+
+* Add cors ([aa26699](https://github.com/technologiestiftung/eyes-of-ai-color-thief/commit/aa26699a5d52baa2ed75238dfde7acf6f9b8926f))
+
 ## [1.0.1](https://github.com/technologiestiftung/eyes-of-ai-color-thief/compare/v1.0.0...v1.0.1) (2023-06-14)
 
 
