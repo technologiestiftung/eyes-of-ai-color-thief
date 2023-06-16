@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/technologiestiftung/eyes-of-ai-color-thief/compare/v1.0.2...v1.1.0) (2023-06-16)
+
+
+### Features
+
+* **number of colors:** Control from env lower num to 3 ([391af08](https://github.com/technologiestiftung/eyes-of-ai-color-thief/commit/391af08bbd8a47d945caafbf9df125fad22a33eb))
+
 ## [1.0.2](https://github.com/technologiestiftung/eyes-of-ai-color-thief/compare/v1.0.1...v1.0.2) (2023-06-15)
 
 
