@@ -1,0 +1,4 @@
+# shellcheck disable=SC2148
+export ADDRESS="localhost"
+export PORT="8080"
+export NUMBER_OF_COLORS="3"

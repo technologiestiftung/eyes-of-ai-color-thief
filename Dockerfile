@@ -20,7 +20,8 @@ RUN mkdir -p /usr/src/app/images
 # Expose port
 EXPOSE 3000
 
-ENV ADDRESS=0.0.0.0 PORT=8080
+ENV ADDRESS=0.0.0.0 PORT=8080 NUMBER_OF_COLORS=3
+
 
 # Run app
 CMD [ "node", "index.js" ]
